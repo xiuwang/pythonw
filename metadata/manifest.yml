@@ -1,4 +1,3 @@
----
 Name: pythonw
 Cartridge-Short-Name: PYTHON
 Display-Name: Python 2.6 wzheng
@@ -10,9 +9,6 @@ Versions:
 - '2.6'
 - '2.7'
 - '3.3'
-
-
-
 License: The Python License, version 2.6
 License-Url: http://docs.python.org/3/license.html
 Vendor: python.org
@@ -89,7 +85,7 @@ Install-Build-Required: false
 #Source-Url: http://baidu.com
 #Source-Url: git://github.com/xiuwang/perlv2cart.git
 #Source-Url: https://github.com/raw/master/perlv2cart.zip
-Source-Url: https://github.com/wzheng1/pythonw/raw/master/pythonw.zip
+Source-Url: https://github.com/xiuwang/pythonw/raw/master/pythonw.zip
 #Source-Url: file:///root/perlv2cart/perlv2cart.zip
 #Source-Url: http://baidu.com
 #Source-Url: file:///root/perlv2cart/
