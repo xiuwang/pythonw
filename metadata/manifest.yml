@@ -11,9 +11,7 @@ Versions:
 - '2.7'
 - '3.3'
 
-Source-Md5: 297d7c06b8c6223999416b6ffc6a3798
 
-Source-Url: https://github.com/wzheng1/pythonw/raw/master/pythonw.zip
 
 License: The Python License, version 2.6
 License-Url: http://docs.python.org/3/license.html
@@ -82,4 +80,6 @@ Version-Overrides:
     - python
     - web_framework
     
+Source-Md5: 297d7c06b8c6223999416b6ffc6a3798
 
+Source-Url: https://github.com/wzheng1/pythonw/raw/master/pythonw.zip
