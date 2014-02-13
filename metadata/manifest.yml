@@ -76,3 +76,7 @@ Version-Overrides:
     - service
     - python
     - web_framework
+    
+Source-URL: https://github.com/wzheng1/pythonw/pythonw.zip
+
+Source-Md5: 297d7c06b8c6223999416b6ffc6a3798
