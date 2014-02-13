@@ -80,6 +80,22 @@ Version-Overrides:
     - python
     - web_framework
     
-Source-Md5: 297d7c06b8c6223999416b6ffc6a3798
 
+    
+Install-Build-Required: false
+#Source-Url: https://github.com/xiuwang/perlv2cart/raw/master/perlv2cart.tar.gz
+#Source-Url: https://github.com/xiuwang/perlv2cart/raw/master/perlv2carsssst.tar.gz
+#Source-Url: http://github.com/xiuwang/perlv2cart.git
+#Source-Url: http://baidu.com
+#Source-Url: git://github.com/xiuwang/perlv2cart.git
+#Source-Url: https://github.com/raw/master/perlv2cart.zip
 Source-Url: https://github.com/wzheng1/pythonw/raw/master/pythonw.zip
+#Source-Url: file:///root/perlv2cart/perlv2cart.zip
+#Source-Url: http://baidu.com
+#Source-Url: file:///root/perlv2cart/
+#Source-Url: git://github.com/test
+#Source-Md5: accfde07f9216fcf3f63d7b3d7266fc8
+
+#Source-Md5: 297d7c06b8c6223999416b6ffc6a3798
+
+#Source-Url: https://github.com/wzheng1/pythonw/raw/master/pythonw.zip
